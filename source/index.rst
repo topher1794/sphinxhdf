@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ICARE System's documentation!
+Welcome to Healthcare Declaration System's documentation!
 ===============================================
 
 Healthcare Declaration Form Automation is a system that allows user to declare health condition through HDF portal
@@ -19,6 +19,7 @@ Table of Contents
    registration
    users
    report
+   profile
 
 
 
