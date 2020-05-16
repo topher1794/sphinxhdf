@@ -9,13 +9,13 @@ Welcome to Healthcare Declaration System's documentation!
 Healthcare Declaration Form Automation is a system that allows user to declare health condition through HDF portal
 
 Table of Contents
-==================
+================== 
 .. toctree::
    :maxdepth: 2 
 
    gettingstarted
    dashboard
-   listsofdeclaration
+   listsofdeclaration 
    registration
    users
    report
