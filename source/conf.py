@@ -49,8 +49,11 @@ exclude_patterns = []
 #
 html_logo = "_static/images/uratex-logo.png"
 
+html_theme = 'default'
 
-html_theme = 'alabaster'
+html_theme_options = {
+    'navigation_depth': 4,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
