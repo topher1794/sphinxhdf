@@ -13,7 +13,7 @@ My Profile
 Log out
 
 .. image:: images/hdf_dashboard.png
-   :width: 800
+   :width: 600
 
 *Figure 2*
 
