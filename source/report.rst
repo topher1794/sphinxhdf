@@ -6,5 +6,5 @@ To print report click Report Generator and filter results by date.
    :width: 600
 
 *Figure 8*
-
+ 
 

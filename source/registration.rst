@@ -6,7 +6,7 @@ To register new user , click *Account Registration* (Figure 5) and fill-up the f
    :width: 600
 
 *Figure 5*
-
+ 
 .. image:: images/register.png
    :width: 600
 
