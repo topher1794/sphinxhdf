@@ -15,5 +15,5 @@ Log out
 .. image:: images/hdf_dashboard.png
    :width: 800
 
-*Figure 1*
+*Figure 2*
 
